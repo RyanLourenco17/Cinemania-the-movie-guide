@@ -1,0 +1,24 @@
+.navPage{
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1%;
+}
+.navPage button{
+  cursor: pointer;
+  color: rgb(30, 30, 30);
+  padding: 0.5%;
+  font-size: 20px;
+}
+
+.navPage button:hover{
+  color: #CB997E;
+}
+
+.navPage button.selected {
+  background-color: #83b9ce; /* Adapte a cor conforme necessário */
+  color: #fff;
+  font-weight: bold;
+  padding: 1%;
+}

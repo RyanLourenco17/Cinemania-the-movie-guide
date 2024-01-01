@@ -1,0 +1,28 @@
+.titleSection{
+  margin-bottom: 10px;
+  color: whitesmoke;
+  text-transform: uppercase;
+}
+
+.agroup{
+  margin-top: 3%;
+  padding: 0.5% 8%;
+}
+
+.carousel{
+  margin-bottom: 4%;
+}
+
+.movie-card img{
+  transition: 0.3s ease-in-out;
+}
+
+.movie-card img:hover{
+  filter: contrast(0.7);
+  scale: 1.1;
+}
+
+.movie-card img{
+  height: 300px;
+  width: 200px;
+}
