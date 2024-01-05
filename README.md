@@ -1,10 +1,10 @@
 # Cinemania-the-movie-guide
 
 ## Visão Geral
-O Cinemania é um projeto desenvolvido em React que visa proporcionar aos usuários uma experiência interativa ao explorar informações sobre filmes e séries de TV. Utilizando a API do [The Movie Database (TMDb)](https://www.themoviedb.org/), a aplicação oferece recursos como exibição de filmes mais bem avaliados, filmes populares, séries de TV mais bem avaliadas, séries populares e funcionalidade de busca.
+O Cinemania é um projeto desenvolvido em React que visa proporcionar aos usuários uma experiência interativa ao explorar informações sobre filmes e séries de TV. Utilizando a API do [The Movie Database (TMDB)](https://www.themoviedb.org/), a aplicação oferece recursos como exibição de filmes mais bem avaliados, filmes populares, séries de TV mais bem avaliadas, séries populares e funcionalidade de busca.
 
 ## Link do site
-https://cinemania-theta.vercel.app/
+https://cinemania-themovieguide.vercel.app/
 
 ## Tecnologias Utilizadas
 O projeto foi construído utilizando as seguintes tecnologias:
